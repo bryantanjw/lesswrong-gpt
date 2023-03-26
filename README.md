@@ -57,7 +57,7 @@ I recommend turning on Row Level Security and setting up a service role to use w
 3. Clone repo
 
 ```bash
-git clone https://github.com/mckaywrigley/lesswrong-gpt.git
+git clone https://github.com/bryantanjw/lesswrong-gpt.git
 ```
 
 4. Install dependencies
@@ -85,7 +85,7 @@ SUPABASE_SERVICE_ROLE_KEY=
 npm run scrape
 ```
 
-This scrapes the top 5000 posts from the LessWrong website and saves them to a json file. For simplicity and cost, this project only later embeds the top 300 posts.
+This pulls the top 5000 posts from the LessWrong website, using their [GraphQL endpoint](https://www.lesswrong.com/graphiql), and saves them to a json file. For simplicity and cost, this project only later embeds the top 300 posts.
 
 1. Run embedding script
 
