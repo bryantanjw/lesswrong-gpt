@@ -163,7 +163,7 @@ export default function Home() {
           </div>
 
           <div className="mx-auto max-w-2xl py-24 sm:py-28 lg:py-28">
-            <div className="hidden sm:mb-8 sm:flex sm:justify-center">
+            <div className="mb-8 flex justify-center">
               <Popover className="relative">
                 <Popover.Button className="relative rounded-full py-1 px-3 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
                   <span>Settings</span>{" "}
