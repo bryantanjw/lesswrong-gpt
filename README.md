@@ -30,7 +30,7 @@ Results are ranked by similarity score and returned to the user.
 
 Chat builds on top of search. It uses search results to create a prompt that is fed into GPT-3.5-turbo.
 
-This allows for a chat-like experience where the user can ask questions about the book and get answers.
+This allows for a chat-like experience where the user can ask questions about the forum and get answers.
 
 ## Running Locally
 
