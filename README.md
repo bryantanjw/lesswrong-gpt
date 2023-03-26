@@ -85,7 +85,7 @@ SUPABASE_SERVICE_ROLE_KEY=
 npm run scrape
 ```
 
-This scrapes all of the posts from the Wait But Why website and saves them to a json file.
+This scrapes the top 5000 posts from the LessWrong website and saves them to a json file. For simplicity and cost, this project only later embeds the top 300 posts.
 
 1. Run embedding script
 
@@ -97,7 +97,7 @@ This reads the json file, generates embeddings for each chunk of text, and saves
 
 There is a 100ms delay between each request to avoid rate limiting.
 
-This process will take 20-30 minutes.
+This process will take 2-3 hours.
 
 ### App
 
