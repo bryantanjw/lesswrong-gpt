@@ -87,7 +87,7 @@ npm run scrape
 
 This pulls the top 5000 posts from the LessWrong website, using their [GraphQL endpoint](https://www.lesswrong.com/graphiql), and saves them to a json file. For simplicity and cost, this project only later embeds the top 300 posts.
 
-1. Run embedding script
+7. Run embedding script
 
 ```bash
 npm run embed
