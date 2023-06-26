@@ -109,4 +109,4 @@ npm run dev
 
 ## Credits
 
-This project was referenced from [McKay Wrigley](https://twitter.com/mckaywrigley)'s Wait But Why GPT
+This project was inspired by [McKay Wrigley](https://twitter.com/mckaywrigley)'s Wait But Why GPT
