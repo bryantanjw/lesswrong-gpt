@@ -4,6 +4,10 @@ AI-powered search and chat for the LessWrong forum
 
 [![LessWrong GPT](./public/lw.png)](https://lesswrong.com/)
 
+
+https://github.com/bryantanjw/lesswrong-gpt/assets/34775928/b4228eed-f2eb-456f-80cf-8f4bbdc0fb1c
+
+
 ## Dataset
 
 The dataset is a CSV file containing all text & embeddings used.
